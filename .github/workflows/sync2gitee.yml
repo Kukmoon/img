@@ -28,8 +28,8 @@ jobs:
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
           # 必选，Gitee对应的用于创建仓库的token，https://gitee.com/profile/personal_access_tokens
           dst_token:  ${{ secrets.GITEE_TOKEN }}
-          # 克隆方式，默认为https，可以设置为ssh或者https。当设置为ssh时，你需要将dst_key所对应的公钥和私钥同时配置到源端和目的端。
-          #clone_style: ssh
+          # 克隆方式，默认为https，可以设置为ssh或者https。当设置为ssh时，你需要将dst_key所对应的私钥配置到GitHub，把dst_key所对应的公钥配置到GitHub的SSH and GPG Keys和Gitee的个人SSH公钥。
+          clone_style: ssh
           # 如果是组织，指定组织即可，默认为用户 user
           # account_type: org
           # 直接取当前项目的仓库名
