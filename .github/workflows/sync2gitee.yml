@@ -1,9 +1,13 @@
 # 通过 Github actions， 在 Github 仓库的每一次 commit 后自动同步到 Gitee 上
 name: sync2gitee
 on:
-  push:
-    branches:
-      - master
+# 把触发条件从 push 改成 workflow_call，让我的博客源文件所在的仓库 kukmoon_blog 的 workflow 调用当前 workflow，实现在部署博客时同步图床
+#  push:
+#    branches:
+#      - master
+  workflow_call:
+  
+
 jobs:
   repo-sync:
     env:
