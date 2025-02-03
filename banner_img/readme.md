@@ -103,3 +103,13 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
 ![2025_03and04](./2025_03and04.jpg)
 
 Image by <a href="https://pixabay.com/users/kranich17-11197573/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6225833">Michaela, at home in Germany • Thank you very much for a like</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6225833">Pixabay</a>
+
+## MOS banner img and MOS index img
+
+![mos-banner-img](./mos-banner-img.jpg)
+
+Source: https://isorepublic.com/photo/northern-lights-sky/
+
+![mos-index-img](../mos-index-img.jpg)
+
+Source: 用 [Raphael](https://rahael.app) 自绘，图中的鼠标来自 [FreeVector](https://www.freevector.com)
