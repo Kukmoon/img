@@ -113,3 +113,15 @@ Source: https://isorepublic.com/photo/northern-lights-sky/
 ![mos-index-img](../mos-index-img.jpg)
 
 Source: 用 [Raphael](https://rahael.app) 自绘，图中的鼠标来自 [FreeVector](https://www.freevector.com)
+
+## 2025 年 5 月 — 6 月
+
+![2025_05and06](./2025_05and06.jpg)
+
+Source: https://pixabay.com/zh/photos/milky-way-sky-stars-cosmos-night-4526277/
+
+## 2025 年 7 月 — 8 月
+
+![2025_07and08](./2025_07and08.jpg)
+
+Source: https://pixabay.com/zh/photos/grass-dunes-landscape-germany-4338114/
