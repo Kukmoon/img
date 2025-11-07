@@ -132,13 +132,19 @@ Source: https://pixabay.com/zh/photos/grass-dunes-landscape-germany-4338114/
 
 ![2025_09and10](./2025_09and10.jpg)
 
-Source: <a href="https://stocksnap.io/photo/leaf-fall-Q74I7CRX1W">Photo</a> by <a href="https://stocksnap.io/author/37798">urbex clan</a> on <a href="https://stocksnap.io">StockSnap</a>
+Source: <a href="https://stocksnap.io/photo/seasonal-leaf-WXREXGYBC6">Photo</a> by <a href="https://stocksnap.io/author/freephotos">FreePhotos</a> on <a href="https://stocksnap.io">StockSnap</a>
 
 
 
 ## 2025 年 11 月 — 12 月
 
-![2025_09and10](./2025_11and12.jpg)
+![2025_11and12](./2025_11and12.jpg)
 
-Source: <a href="https://stocksnap.io/photo/seasonal-leaf-WXREXGYBC6">Photo</a> by <a href="https://stocksnap.io/author/freephotos">FreePhotos</a> on <a href="https://stocksnap.io">StockSnap</a>
+Source: https://pxhere.com/zh/photo/1164378
 
+
+## 2026 年 1 月 — 2 月
+
+![2025_11and12](./2026_01and02.jpg)
+
+Source: https://pxhere.com/zh/photo/717427
