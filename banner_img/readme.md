@@ -143,8 +143,14 @@ Source: <a href="https://stocksnap.io/photo/seasonal-leaf-WXREXGYBC6">Photo</a> 
 Source: https://pxhere.com/zh/photo/1164378
 
 
-## 2026 年 1 月 — 2 月
+## 2026 年上半年（1—6月）
 
-![2025_11and12](./2026_01and02.jpg)
+![2026_01to06](./2026_01to06.jpg)
 
-Source: https://pxhere.com/zh/photo/717427
+Source: https://pixabay.com/photos/canyon-mountains-river-kazakhstan-1740973/
+
+## 2026 年下半年（7—12月）
+
+![2026_07to12](./2026_07to12.jpg)
+
+Source: https://pixabay.com/photos/sea-rocks-mountains-croatia-coast-6948569/
